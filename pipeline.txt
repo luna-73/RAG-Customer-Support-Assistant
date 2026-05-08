@@ -1,0 +1,15 @@
+"""
+PIPELINE FLOW
+
+User Query
+   ↓
+Embedding (Sentence Transformers)
+   ↓
+Vector Search (ChromaDB)
+   ↓
+Top-k Relevant Chunks
+   ↓
+LLM (FLAN-T5)
+   ↓
+Final Answer
+"""
