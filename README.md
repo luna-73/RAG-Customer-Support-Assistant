@@ -22,17 +22,4 @@ HuggingFace Transformers
 FLAN-T5
 PyPDF
 
-Project Structure
-rag-support-bot/
-│
-├── app.py
-├── ingest.py
-├── graph.py
-├── utils.py
-├── requirements.txt
-│
-├── support.pdf
-│
-├── hld.md
-├── lld.md
-├── technical_doc.md
+
